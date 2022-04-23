@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_5D655908_56EC_B679_41C9_AAE51DEE0A12.label = RD_1 - Panorama
+panorama_5C9C9F44_56ED_4AE8_41C9_660782F5778C.label = RD_2 - Panorama
+panorama_5C8462EE_56ED_5BB9_4196_03FEA8E87EF3.label = RD_3 - Panorama
+panorama_5C8BA69A_56ED_5B98_41C9_B8B99BD57CBD.label = RD_4 - Panorama
+panorama_5C846A64_56ED_4AA8_41D0_25CBCCBD2175.label = RD_5 - Panorama
+panorama_5C845ED9_56ED_4B9B_41C2_53899AB034A8.label = RD_6 - Panorama
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 29
